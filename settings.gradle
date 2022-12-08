@@ -1,0 +1,4 @@
+rootProject.name = "springboot-rsocket-dos-connections-exhaust"
+
+include "springboot-rsocket-service"
+include "dos-idle-connections-client"
